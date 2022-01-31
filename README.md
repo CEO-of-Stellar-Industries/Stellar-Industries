@@ -7,4 +7,4 @@
 &
 Stellar Studios is a Codding & Publication sub-section
 
-- Licensed by : Omega Company
+- Licensed by: Omega Company
